@@ -10,6 +10,8 @@
 # Github 연동
 ## 2번 티켓 자동 완료 ~~ !
 
+## Auto publishing 완료 확인 !!!
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행했던 Hands on Lab입니다.
